@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashhad</h1>
-</br>
 <h3 align="center">A passionate mobile application developer from Pakistan</h3>
 
 
