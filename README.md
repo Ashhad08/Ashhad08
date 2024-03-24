@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CI/CD and advanced flutter**
 
-- 💬 Ask me about **flutter, firebase, REST apis**
+- 💬 Ask me about **flutter, firebase, REST apis, State managment**
 
 - 📫 How to reach me **ionwork08@gmail.com**
 
