@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile application developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [Connect Ummah](https://play.google.com/store/apps/details?id=com.connectummah.connect_ummah)
+- 🔭 I’m currently working on **[Connect Ummah](https://play.google.com/store/apps/details?id=com.connectummah.connect_ummah)**
 
 - 🌱 I’m currently learning **CI/CD and advanced flutter**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ionwork08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ashhad/](https://www.linkedin.com/in/muhammad-ashhad/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/muhammad-ashhad](https://www.linkedin.com/in/muhammad-ashhad/)**
 
 - ⚡ Fun fact **I think I am funny 😂**
 </br>
