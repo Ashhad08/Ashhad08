@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile application developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on **[Connect Ummah](https://play.google.com/store/apps/details?id=com.connectummah.connect_ummah)**
+- 🔭 I’m currently working on **[DubiCars](https://play.google.com/store/apps/details?id=com.dubicars.dubicars)**
 
 - 🌱 I’m currently learning **CI/CD and advanced flutter**
 
