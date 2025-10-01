@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **[DubiCars](https://play.google.com/store/apps/details?id=com.dubicars.dubicars)**
 
-- 🌱 I’m currently learning **CI/CD and advanced flutter**
-
 - 💬 Ask me about **flutter, firebase, REST apis, State managment**
 
 - 📫 How to reach me **ionwork08@gmail.com**
