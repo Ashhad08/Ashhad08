@@ -4,13 +4,12 @@
 
 - 🔭 I’m currently working on **[DubiCars](https://play.google.com/store/apps/details?id=com.dubicars.dubicars)**
 
-- 💬 Ask me about **flutter, firebase, REST apis, State managment**
+- 💬 Ask me about **flutter, firebase, REST apis, State managment, CI/CD, App Architectures**
 
 - 📫 How to reach me **ionwork08@gmail.com**
 
 - 📄 Know about my experiences **[https://www.linkedin.com/in/muhammad-ashhad](https://www.linkedin.com/in/muhammad-ashhad/)**
 
-- ⚡ Fun fact **I think I am funny 😂**
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p><a href="https://skillicons.dev/icons?i=flutter,androidstudio,dart,figma,firebase,github,githubactions,linkedin,postgres,postman&stackoverflow" target="blank"><img align="center" src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,figma,firebase,github,githubactions,linkedin,postgres,postman&stackoverflow"/></a></p>
